@@ -16,7 +16,7 @@ Person C should modify content here.
 
 ## Person D:
 
-Person D should modify content here.
+So, this is my example content! Hio! Cookies, please! :D
 
 ## Need inspiration?
 
