@@ -4,7 +4,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ## Person A:
 
-Person A should modify content here.
+Person A should modify content here. ---> I guess I'm suppose to do something but I don't know what so here I am typing whatever comes to mind. Hehehehehe
 
 ## Person B:
 
